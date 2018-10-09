@@ -1,0 +1,22 @@
+{
+  "name": "@o3o/vue-cli-plugin-packages",
+  "version": "0.2.0",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "aircity <aircity@drrr.us>",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aircity/vue-cli-plugin-packages.git"
+  },
+  "homepage": "https://github.com/Aircity/vue-cli-plugin-packages.git#readme",
+  "description": "vue-cli 3 plugin",
+  "keywords": [
+    "vue",
+    "vue-cli",
+    "packages",
+    "yarn"
+  ]
+}
