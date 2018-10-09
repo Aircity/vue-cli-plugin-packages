@@ -18,7 +18,7 @@ Navigate to the newly created project folder and add the cli plugin:
 
 ```
 cd my-new-app
-vue invoke @o3o/packages
+vue add @o3o/packages
 ```
 
 Start your app:
