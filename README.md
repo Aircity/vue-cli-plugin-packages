@@ -1,4 +1,5 @@
 # vue-cli-plugin-packages
+yarn workspaces plugin for vue-cli
 
 ## Getting started
 
